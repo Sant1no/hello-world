@@ -1,5 +1,5 @@
 # hello-world
-This is my first project, I don't know what to expect
+This is my first project, I do know what to expect
 
 Hi everyone, Sant1no here!
 
